@@ -175,7 +175,7 @@ function App() {
                       <Button disabled>Free</Button>
                       <br />
                       <spam style={{ fontSize: '50px', fontWeight: 'bold' }}>
-                        $0
+                        $29
                       </spam>
                       <spam>/month</spam>
                     </center>
@@ -184,11 +184,11 @@ function App() {
                   <Box sx={{ textAlign: 'left' }}>
                     <Box sx={{ paddingBlock: '1em' }}>
                       <DoneIcon />
-                      Single User
+                      Unlimited User
                     </Box>
                     <Box sx={{ paddingBlockEnd: '1em' }}>
                       <DoneIcon />
-                      5GB Storage
+                      Unlimited Storage
                     </Box>
                     <Box sx={{ paddingBlockEnd: '1em' }}>
                       <DoneIcon />
