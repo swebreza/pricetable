@@ -70,3 +70,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 ![ ](https://github.com/swebreza/pricetable/blob/main/src/Screenshot%202022-01-23%20112902.png)
+
+The App is deployed at [https://621b434cd0478d7156bbf547--practical-mayer-658f68.netlify.app/](https://621b434cd0478d7156bbf547--practical-mayer-658f68.netlify.app/)
