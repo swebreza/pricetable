@@ -1,3 +1,6 @@
+This App is deployed [here](https://621b434cd0478d7156bbf547--practical-mayer-658f68.netlify.app/)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -71,4 +74,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ![ ](https://github.com/swebreza/pricetable/blob/main/src/Screenshot%202022-01-23%20112902.png)
 
-This App is deployed [here](https://621b434cd0478d7156bbf547--practical-mayer-658f68.netlify.app/)
